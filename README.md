@@ -19,7 +19,7 @@ Set up "intents" that automatically trade memecoins based on social signals whil
 
 ## 🎯 Live Demo
 
-**[Try the Interactive Demo →](https://webraizo30.github.io/anomeme)**
+**[Try the Interactive Demo →](https://webraizo30.github.io/AnoMeme/)**
 
 ## 📚 Documentation
 
